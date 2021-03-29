@@ -21,7 +21,7 @@ olefile==0.46
 packaging==19.1
 Pillow==6.2.0
 pycparser==2.19
-Pygments==2.4.2
+Pygments==2.7.4
 pyOpenSSL==19.0.0
 pyparsing==2.4.2
 PySocks==1.7.0
